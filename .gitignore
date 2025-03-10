@@ -1,0 +1,5 @@
+/build
+/.vscode
+/run_server.bat
+CMakeLists.txt
+/include
